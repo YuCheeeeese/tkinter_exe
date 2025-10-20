@@ -1,7 +1,5 @@
 import tkinter as tk
-from tkinter import messagebox, filedialog
-import os
-
+from tkinter import filedialog
 
 def open_subwindow():
     root.withdraw()  # Hide the main window
